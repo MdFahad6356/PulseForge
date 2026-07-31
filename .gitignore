@@ -1,0 +1,21 @@
+# Visual Studio and MSBuild output
+bin/
+obj/
+.packages/
+publish/
+
+# User-specific IDE files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Diagnostics and exported test results
+*.log
+*smoke*.json
+PulseForge-*.json
+
+# OS metadata
+Thumbs.db
+Desktop.ini
